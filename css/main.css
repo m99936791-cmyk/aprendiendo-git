@@ -33,10 +33,11 @@ section {
     border-radius: 12px;
     padding: 20px 28px;
     margin-bottom: 20px;
+    border-left: 6px solid #f9a27e;
 }
 
 h2 {
-    color: #b8401f;
+    color: #1d4ed8;
     margin-top: 0;
 }
 
@@ -45,6 +46,7 @@ code {
     color: #7dd3a0;
     padding: 4px 10px;
     border-radius: 6px;
+    font-size: 14px;
 }
 
 
